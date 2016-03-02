@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <cstdio> // for getchar
-#include <iomanip> // for setw
+#include <iomanip> // for setw (width of the print)
 
 using namespace std;
 
