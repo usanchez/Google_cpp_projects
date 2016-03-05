@@ -3,3 +3,4 @@
 Added projects:
 
 * HelloWorld
+* GettingInput
