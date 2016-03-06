@@ -18,7 +18,7 @@ int main() {
 		if (!(cin >> input_var)) {
 			cout << "You entered a non-numeric. Try again." << endl;
 			cin.clear();
-			cin.ignore(256, '\n'); // ignore until newline			
+			cin.ignore(256, '\n'); // ignores non-integer inputs (because of the type of input_var) until newline			
 			//break; // exit the do while loop
 		}
 		else if (input_var != -1) {
